@@ -1,2 +1,1 @@
-no int loopback613
- 
+no interface loopback 613
